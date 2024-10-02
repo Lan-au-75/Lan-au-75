@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lan-au-75&label=Profile%20views&color=0e75b6&style=flat" alt="lan-au-75" /> </p>
 
-- 🌱 I’m currently learning **ASP.Net,Docker,English**
+- 🌱 I’m currently learning **Vue,English**
 
 - 💬 Ask me about **javascript,react**
 
